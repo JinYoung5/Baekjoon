@@ -17,6 +17,7 @@ public class Main {
         }   
         
         int F = Integer.parseInt(br.readLine());
+        
         int count = 0;
         
         for(int i=0; i<arr.length; i++){
@@ -27,4 +28,3 @@ public class Main {
         br.close();
     }
 }
-        
